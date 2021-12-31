@@ -17,4 +17,4 @@
 <br />
 <br />
 - ### 📺 Discord 
--[HACK2GETHER serveur  Cybersécurité ( Développement, Réseaux.....)](https://discord.gg/K5cVECrMYs)
+-[HACK2GETHER serveur  Cybersécurité ( Développement, Réseaux.....)](https://discord.gg/K5cVECrMYs)]
