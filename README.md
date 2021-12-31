@@ -19,13 +19,6 @@
 ### 📺 Discord 
 
 <!-- YOUTUBE:START -->
-- [Hey, salut toi ! 👋
-Je te présente un serveur communautaire chill où tu trouveras:
-➔ 💬 Des salons textuels pour discuter
-➔ 🔊 Des salons vocaux pour parler et écouter de la musique
-➔📚 Des cours fait par les meilleurs professeurs
-➔ 👮 Un staff actif et à l'écoute
-➔ 👍 Des mises à jours régulières en prenant compte de vos suggestions
-➔ 💻 Des salons pour parler de Cybersécurité ( Développement, Réseaux.....) ](https://discord.gg/K5cVECrMYs)
+- [HACK2GETHER serveur  Cybersécurité ( Développement, Réseaux.....) ](https://discord.gg/K5cVECrMYs)
 
 
