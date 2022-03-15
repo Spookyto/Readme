@@ -16,5 +16,5 @@
 <!-- discord -->
 📩・**Want to reach? Add Spooky#6666 on [discord] or mail Spookyto@protonmail.com**
 - [HACK2GETHER serveur  Cybersécurité ( Développement, Réseaux.....) ](https://discord.gg/K5cVECrMYs)
-
+</a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rdimo&count_private=true&hide=procfile&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="Spookyto" /> </p>
 
