@@ -1,5 +1,3 @@
-#Readme
-
 ### Hi there, I'm Spookyto - aka [XVIIISpooky] 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/XVIIISpooky?color=1DA1F2&logo=twitter&style=for-the-badge)] 
 
