@@ -18,4 +18,3 @@
 - [HACK2GETHER serveur  Cybersécurité ( Développement, Réseaux.....) ](https://discord.gg/K5cVECrMYs)
 
 
-<a href="https://Cheataway.com" target="_blank"> <img src="https://discord.c99.nl/widget/theme-1/917830825742057492.png"/></a>
