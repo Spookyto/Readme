@@ -3,11 +3,6 @@
 ### Hi there, I'm Spookyto - aka [XVIIISpooky] 👋 
 [![Twitter Follow](https://img.shields.io/twitter/follow/XVIIISpooky?color=1DA1F2&logo=twitter&style=for-the-badge)] 
 
-## I'm a Student , and  apprentice Developer!!
-- 🌱 I’m currently learning everything 🤣 
-- 👯 I’m looking to collaborate with other content creators 
-- 🥅 2021 Goals: improve their skills in Bug bounty 
-
 
 ### Languages and Tools:
 
@@ -19,6 +14,7 @@
 ### 📺 Discord 
 
 <!-- discord -->
+📩・**Want to reach? Add Spooky#6666 on [discord] or mail Spookyto@protonmail.com**
 - [HACK2GETHER serveur  Cybersécurité ( Développement, Réseaux.....) ](https://discord.gg/K5cVECrMYs)
 
 
